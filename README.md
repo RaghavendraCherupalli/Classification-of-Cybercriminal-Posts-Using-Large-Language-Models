@@ -1,4 +1,4 @@
-Contextual Classification of Cybercriminal Posts Using Large Language Models: A Comprehensive Study on Tech Support Scam Marketplaces
+[**Contextual Classification of Cybercriminal Posts Using Large Language Models: A Comprehensive Study on Tech Support Scam Marketplaces**](https://ieeexplore.ieee.org/document/11327876)
 
 An asynchronous, few-shot NLP pipeline designed to classify posts from cybercriminal and illicit marketplaces into 12 distinct threat intelligence categories using Large Language Models (LLMs).
 
