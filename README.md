@@ -21,6 +21,8 @@ Analyzing informal marketplace data is difficult due to niche slang, evolving ev
 * `Scammer Warnings`
 * `Other`
 
+Classifying these posts will help us develop a more targeted, data-driven understanding of the tech support scam ecosystem and inform more effective disruption strategies.
+
 ##  Technical Highlights
 
 * **Asynchronous LLM Inference:** Utilizes `asyncio` and `httpx` to send concurrent API requests, significantly speeding up the labeling of large datasets.
