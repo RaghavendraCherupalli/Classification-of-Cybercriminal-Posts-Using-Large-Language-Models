@@ -44,4 +44,4 @@ Due to the sensitive nature of the research (analyzing cybercriminal and illicit
 In accordance with ethical research practices, the real dataset is **not** included in this public repository. 
 
 * **To run the code:** A small, synthetic dataset (`data/fewshots_examples.csv`) is provided so you can test the pipeline locally.
-* **To request data access:** If you are a researcher or recruiter interested in the full dataset or original few-shot prompts, please contact me directly at [raghavendra.cherupalli@gmail.com] or connect with me on LinkedIn(https://www.linkedin.com/in/raghavendra-cherupalli-22818119a/).
+* **To request data access:** If you are a researcher or recruiter interested in the full dataset or original few-shot prompts, please contact me directly at [raghavendra.cherupalli@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/raghavendra-cherupalli-22818119a/).
