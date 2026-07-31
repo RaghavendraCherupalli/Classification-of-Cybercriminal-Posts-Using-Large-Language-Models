@@ -35,7 +35,7 @@ Classifying these posts will help us develop a more targeted, data-driven unders
 Ensure you have Python 3.9+ installed and Ollama running locally with your model of choice:
 ```bash
 ollama run gemma3:12b
-
+```
 ## Data Privacy & Access
 
 **Note on Dataset Availability:** 
